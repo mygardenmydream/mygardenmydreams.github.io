@@ -1,0 +1,40 @@
+#vk1 {
+	color: white;
+	font-size: 50px;
+	background: #0F0724;
+}
+
+#vk {
+	color: white;
+	font-size: 50px;
+	background: #0F0724;
+}
+
+#scroler {
+	background: #0F0724;
+	color: white;
+	border: 2px solid #42d9f4;
+	padding: 20px;
+	font-size: 35px;
+}
+
+#scrolera {
+     color: white;	
+}
+
+#youtube {
+	color: white;
+	font-size: 50px;
+	background: #0F0724;
+}
+
+#youtube1	 {
+	color: white;
+	font-size: 50px;
+	background: #0F0724;
+}
+
+body {
+    margin: 0;
+    background-color: #0F0724;
+}
